@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Alfonso Escobar
 
-Soy Alfonso Escobar, un Desarrollador Fullstack apasionado por el aprendizaje continuo y con un enfoque en el desarrollo Backend. Actualmente trabajo como Engineer en NTTData, donde participo en la creación de soluciones robustas y escalables para distintos clientes.
+Soy Alfonso Escobar, un Desarrollador Fullstack apasionado por el aprendizaje continuo y con especial interes en el desarrollo Backend. Actualmente trabajo como Engineer en NTTData, donde participo en la creación de soluciones robustas y escalables para distintos clientes.
 
 ## 🚀 Habilidades Técnicas
 
@@ -16,7 +16,8 @@ Colaboración con equipos multidisciplinarios para crear aplicaciones de alto re
 
 ## 📚 Educación
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
-Formación Profesional orientada a la creación de aplicaciones multiplataforma, con un enfoque en el desarrollo backend.
+Formación Profesional orientada a la creación de aplicaciones multiplataforma.
+Con enfoque en el desarrollo backend aun que actualmente orientandome mas por el Fullstack, aprendiendo React, Astro.
 
 ## 🌍 Colaboración y comunidad
 Me gusta compartir conocimiento y colaborar en proyectos de código abierto. Si tienes algún proyecto interesante o simplemente quieres compartir ideas, ¡no dudes en contactarme!
